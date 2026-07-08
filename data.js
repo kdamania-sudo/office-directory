@@ -12,7 +12,7 @@ const directoryData = [
   {
     suiteName: "SUITE 200",
     entries: [
-      { name: "S. A. Sami Professional Corporation" , subtext: "Chartered Professional Accountant" },
+      { name: "S. A. Sami Professional Corporation", subtext: "Chartered Professional Accountant" },
       { name: "Pathak Professional Corporation" },
       { name: "Amicus Immigration Consultants Canada Inc." }
     ]
@@ -22,8 +22,8 @@ const directoryData = [
     entries: [
       { name: "NTNW & Associates Inc." },
       { name: "CADPAR Management Inc." },
-      { name: "Michael Falaye, CPA"},
-      { name: "Nawaz Taub & Wasserman" }
+      { name: "Michael Falaye, CPA" },
+      { name: "Nawaz Taub and Wasserman" }	
     ]
   }
 ];
