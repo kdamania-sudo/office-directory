@@ -23,7 +23,7 @@ const directoryData = [
       { name: "NTNW & Associates Inc." },
       { name: "CADPAR Management Inc." },
       { name: "Michael Falaye, CPA" },
-      { name: "Nawaz Taub and Wasserman" }	
+      { name: "Nawaz Taub & Wasserman" }	
     ]
   }
 ];
